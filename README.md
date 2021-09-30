@@ -11,3 +11,14 @@
 6) Go to terminal and run python manage.py make migrations and python manage.py migrate.
 7) Go to manage.py file dir and run python manage.py runserver.
 8) Want to access django admin panel createsuper and login into it.
+
+
+## POSTMAN APi collection
+
+1) http://127.0.0.1:8000/Register/<phone>/
+2) http://127.0.0.1:8000/Login/<phone>/
+3) http://127.0.0.1:8000/like/<int:id>
+4) http://127.0.0.1:8000/dislike/<int:id>
+5) http://127.0.0.1:8000/History
+6) http://127.0.0.1:8000/liked-me
+7) http://127.0.0.1:8000/whom-i-liked 
