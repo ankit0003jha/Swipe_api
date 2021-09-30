@@ -15,10 +15,10 @@
 
 ## POSTMAN APi collection
 
-1) http://127.0.0.1:8000/Register/<phone>/
-2) http://127.0.0.1:8000/Login/<phone>/
-3) http://127.0.0.1:8000/like/<int:id>
-4) http://127.0.0.1:8000/dislike/<int:id>
+1) http://127.0.0.1:8000/Register/{phone}/
+2) http://127.0.0.1:8000/Login/{phone}/
+3) http://127.0.0.1:8000/like/{int:id}
+4) http://127.0.0.1:8000/dislike/{int:id}
 5) http://127.0.0.1:8000/History
 6) http://127.0.0.1:8000/liked-me
 7) http://127.0.0.1:8000/whom-i-liked 
