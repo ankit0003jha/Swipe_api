@@ -22,3 +22,10 @@
 5) http://127.0.0.1:8000/History
 6) http://127.0.0.1:8000/liked-me
 7) http://127.0.0.1:8000/whom-i-liked 
+
+
+## What this application do?
+
+1) A user can register and login with the help of "OTP" authentication. (for that we have an register and login api)
+2) User have like and dislike image.
+3) Use can see their history part.
